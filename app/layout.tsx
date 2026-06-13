@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   openGraph: { type: 'website', locale: 'en_US', siteName: 'VPNRanker' },
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true },
+  verification: { google: 'O618r5iMgwY7-cCLoXskvwXyKcTn-I_HO2ITy1jqoEg' },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
