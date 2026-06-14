@@ -29,7 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${inter.variable} ${merriweather.variable}`}>
       <head>
         {/* @ts-expect-error -- Impact.com verification snippet requires `value`, not `content` */}
-        <meta name="impact-site-verification" value="10f22ad5-193d-43aa-8fbe-403ff942acb0" />
+        <meta name="impact-site-verification" value="25bdcb86-9549-4fda-a02e-1268f51ed5d9" />
       </head>
       <body className="min-h-screen flex flex-col bg-white">
         <SiteHeader />
